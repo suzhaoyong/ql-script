@@ -12,11 +12,11 @@ const su8600 = '3x46xupsvhrcjxhh42thkh5kmi3h7wlwy7o5jii',
   yun2725 = 'qwmkwedt5pnudopad4z2g3n4xdamrxdji42pkwi',
   chun0799 = 'ebxm5lgxoknqc7fryol5neqy2pk727tndvfh2la'
 let PlantBeanShareCodes = [
-  `${ja4412}@${su4894}@${yun2725}@${chun0799}`,
-  `${su8600}@${su4894}@${yun2725}@${chun0799}`,
-  `${su8600}@${ja4412}@${yun2725}@${chun0799}`,
-  `${su8600}@${ja4412}@${su4894}@${chun0799}`,
-  `${su8600}@${ja4412}@${su4894}@${yun2725}`,
+  `${su8600}@${ja4412}@${su4894}@${yun2725}@${chun0799}`,
+  `${su8600}@${ja4412}@${su4894}@${yun2725}@${chun0799}`,
+  `${su8600}@${ja4412}@${su4894}@${yun2725}@${chun0799}`,
+  `${su8600}@${ja4412}@${su4894}@${yun2725}@${chun0799}`,
+  `${su8600}@${ja4412}@${su4894}@${yun2725}@${chun0799}`,
 ]
 
 // 从日志获取互助码

@@ -12,11 +12,10 @@ const su8600 = 'MTAxODc2NTE0NzAwMDAwMDAxMzM2NTUwMw==',
   yun2725 = 'MTEzMzI1MTE4NDAwMDAwMDA1MDg3NzA0OQ==',
   chun0799 = 'MTE5MzEwNTEzODAwMDAwMDA1MTExNzUxMw=='
 let PetShareCodes = [
-  `${ja4412}@${su4894}@${yun2725}@${chun0799}`,
-  `${su8600}@${su4894}@${yun2725}@${chun0799}`,
-  `${su8600}@${ja4412}@${yun2725}@${chun0799}`,
-  `${su8600}@${ja4412}@${su4894}@${chun0799}`,
-  `${su8600}@${ja4412}@${su4894}@${yun2725}`,
+  `${su8600}@${ja4412}@${su4894}@${yun2725}@${chun0799}`,
+  `${su8600}@${ja4412}@${su4894}@${yun2725}@${chun0799}`,
+  `${su8600}@${ja4412}@${su4894}@${yun2725}@${chun0799}`,
+  `${su8600}@${ja4412}@${su4894}@${yun2725}@${chun0799}`,
 ]
 
 // 从日志获取互助码
